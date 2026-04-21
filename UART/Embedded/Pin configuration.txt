@@ -1,0 +1,6 @@
+
+Board 1 (GND) -> Board 2 (GND);
+
+Board 1 (Pin-2, Rx) -> Board 2 (Pin-3, Tx);
+
+Board 1 (Pin-3, Tx) -> Board 2 (Pin-2, Rx);
